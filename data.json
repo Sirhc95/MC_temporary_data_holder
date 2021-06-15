@@ -5,7 +5,7 @@
             "caption": "CHAD available now"
         }
     },
-    "featured": {
+    "products": {
         "product_1": {
             "name": "Body Butter",
             "image": "https://cdn.shopify.com/s/files/1/0550/9595/1527/products/BDYBUTROSE.1_600x.jpg",
@@ -23,6 +23,18 @@
             "image": "https://cdn.shopify.com/s/files/1/0550/9595/1527/products/HROIL.2_600x.jpg",
             "description": "Handcrafted with natural herbs to ensure hair growth",
             "price": "$14.99"
+        },
+        "product_4": {
+            "name": "Chad Beard Oil",
+            "image": "https://cdn.shopify.com/s/files/1/0550/9595/1527/products/CHADHHNSM.2_600x.jpg",
+            "description": "Get you're chad on with handcrafted, natural and fragrant beard oil that promotes smell, texture and growth",
+            "price": "$19.99"
+        }
+        "product_5": {
+            "name": "Turmeric Soap",
+            "image": "https://cdn.shopify.com/s/files/1/0550/9595/1527/products/0313cc9e-1952-4864-ab73-c3ab98119bb0_600x.jpg",
+            "description": "Lightens uneven skin tones with collagens, keeping you young and fruitful",
+            "price": "$4.99"
         }
     }
 }}
