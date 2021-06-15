@@ -8,15 +8,21 @@
     "featured": {
         "product_1": {
             "name": "Body Butter",
-            "image": "https://cdn.shopify.com/s/files/1/0550/9595/1527/products/BDYBUTROSE.1_600x.jpg"
+            "image": "https://cdn.shopify.com/s/files/1/0550/9595/1527/products/BDYBUTROSE.1_600x.jpg",
+            "description": "With your choice of scent, made from natural ingredients",
+            "price": "$9.99"
         },
         "product_2": {
             "name": "Yoyo's Curls",
-            "image": "https://cdn.shopify.com/s/files/1/0550/9595/1527/products/YOYOCURL.2_600x.jpg"
+            "image": "https://cdn.shopify.com/s/files/1/0550/9595/1527/products/YOYOCURL.2_600x.jpg",
+            "description": "Handmade hair cream that keeps your hair smooth and laid",
+            "price": "$9.99"
         },
         "product_3": {
             "name": "Tresses Hair Oil",
-            "image": "https://cdn.shopify.com/s/files/1/0550/9595/1527/products/HROIL.2_600x.jpg"
+            "image": "https://cdn.shopify.com/s/files/1/0550/9595/1527/products/HROIL.2_600x.jpg",
+            "description": "Handcrafted with natural herbs to ensure hair growth",
+            "price": "$14.99"
         }
     }
 }}
